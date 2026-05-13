@@ -3,7 +3,7 @@
 # ===============================
 # LangChain (architecture RAG)
 # ===============================
-langchain==0.0.354
+langchain==0.3.30
 langchain-community==0.0.20
 langchain-core
 
